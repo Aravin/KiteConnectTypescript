@@ -1,0 +1,5 @@
+/certs
+/dist
+/node_modules
+*.js
+.env
